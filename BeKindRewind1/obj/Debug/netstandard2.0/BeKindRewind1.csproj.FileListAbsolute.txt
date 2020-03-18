@@ -1,0 +1,8 @@
+C:\Users\morgane.dumarque\Desktop\COURS\ORM\BeKindRewind1\BeKindRewind1\bin\Debug\netstandard2.0\BeKindRewind1.deps.json
+C:\Users\morgane.dumarque\Desktop\COURS\ORM\BeKindRewind1\BeKindRewind1\bin\Debug\netstandard2.0\BeKindRewind1.dll
+C:\Users\morgane.dumarque\Desktop\COURS\ORM\BeKindRewind1\BeKindRewind1\bin\Debug\netstandard2.0\BeKindRewind1.pdb
+C:\Users\morgane.dumarque\Desktop\COURS\ORM\BeKindRewind1\BeKindRewind1\obj\Debug\netstandard2.0\BeKindRewind1.csprojAssemblyReference.cache
+C:\Users\morgane.dumarque\Desktop\COURS\ORM\BeKindRewind1\BeKindRewind1\obj\Debug\netstandard2.0\BeKindRewind1.AssemblyInfoInputs.cache
+C:\Users\morgane.dumarque\Desktop\COURS\ORM\BeKindRewind1\BeKindRewind1\obj\Debug\netstandard2.0\BeKindRewind1.AssemblyInfo.cs
+C:\Users\morgane.dumarque\Desktop\COURS\ORM\BeKindRewind1\BeKindRewind1\obj\Debug\netstandard2.0\BeKindRewind1.dll
+C:\Users\morgane.dumarque\Desktop\COURS\ORM\BeKindRewind1\BeKindRewind1\obj\Debug\netstandard2.0\BeKindRewind1.pdb
